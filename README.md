@@ -13,6 +13,25 @@ The Issue: They were seeing a spike in "delinquency" (people missing payments). 
 
 My Goal: I needed to dig into their data, figure out who was missing payments, and then design an AI-driven strategy to fix the collection process without being intrusive.
 
+# Tasks 1
+In this task, you will conduct an EDA on Geldium’s dataset to help Tata iQ’s analytics team and Geldium’s decision-makers understand the current state of their data. Your analysis will shape how the company refines its delinquency risk model and improves its intervention strategies.
+
+# Tassk 2
+Now that you’ve explored Geldium’s dataset and conducted EDA, it’s time to take the next step: outline a predictive modeling approach to forecast which customers are most at risk of delinquency.
+
+Your goal is to use GenAI tools (like ChatGPT, Google Gemini, or DeepSeek) to help scaffold a predictive model concept, select an appropriate modeling approach, and plan how you would evaluate its performance. 
+
+# Task 3
+Your job is to translate your predictive findings into a clear, stakeholder-ready report for Geldium’s Head of Collections. This report will be used to inform the team’s next steps and shape how they apply AI insights in their decision-making.
+
+# Task 4
+In this task, you’ll create a PowerPoint that outlines your proposed AI-powered collections system. This isn’t a technical system architecture — it’s a high-level strategy describing:
+
+1. How the system would work
+2. What ethical and regulatory guardrails it needs
+3. How its success would be measured
+
+
 # 🛠️ What I Actually Did
 
 This simulation wasn't just about writing code; it was about solving problems. Here is the breakdown of my four-stage process:
@@ -60,7 +79,6 @@ GenAI Tools: Used for synthesizing the logic and drafting the predictive framewo
 Jupyter Notebooks: Where the analysis happened.
 
 
-Check out the notebooks/ folder to walk through my analysis step-by-step.
+# Check out the notebook to walk through my analysis step-by-step.
 
 
-Connect with me on LinkedIn if you want to chat about Data Analytics or AI!
